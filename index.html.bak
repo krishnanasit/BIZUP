@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="Assets/images/fav.png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIZUP</title>
+    <!-------- bootstrap ------->
+    <link href="Assets/CSS/bootstrap.css" rel="stylesheet" type="text/css">
+    <!-------- icofonts --------->
+    <link href="Assets/CSS/icofont.css" rel="stylesheet" type="text/css">
+    <!-------- All --------->
+    <link href="Assets/CSS/all.css" rel="stylesheet" type="text/css">
+    <!--------------- Aenimet --------------->
+    <link href="Assets/CSS/animate.css" rel="stylesheet" type="text/css">
+    <!------- carsoul ------->
+    <link href="Assets/CSS/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="Assets/CSS/owl.theme.default.css" rel="stylesheet" type="text/css">
+    <!------- custome css ------->
+    <link href="Assets/CSS/style.css" rel="stylesheet" type="text/css">
+    <!------ media ------->
+    <link href="Assets/CSS/media.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <!--header-->
+   
+        <!-------- Topbar Area Start -------->
+        <div class="topbar-area wow animate__animated animate__slideInDown animate__delay-1s">
+            <div class="container custom">
+                <div class="row align-item-center">
+                    <div class="col-lg-7">
+                        <div class="w-100">
+                        <div class="topbar-contact">
+                            <ul>
+                                <li>
+                                    <i class="icofont-email"></i>
+                                    <a href="mailto:info@bizup.com">info@bizup.com</a>
+                                </li>
+                                <li>
+                                    <i class="icofont-ui-call"></i>
+                                    <a href="tel:(+1)9999999999"> (+1) 9999 999 999</a>
+                                </li>
+                                <li>
+                                    <i class="icofont-location-pin"></i>
+                                    55 Gerad Lane,  NY 11201, USA
+                                </li>
+                            </ul>
+                         </div>
+                        </div> 
+                    </div>
+                    <div class="col-lg-5 text-right">
+                        <div class="w-100">
+                        <div class="toolbar-sl-share">
+                            <ul>
+                                <li class="opening"> 
+                                    <em>
+                                        <i class="icofont-wall-clock"></i>
+                                            Monday - Friday / 8AM - 11PM
+                                    </em> 
+                                </li>
+                                 <li><a href="#"><i class="icofont-facebook"></i></a></li>
+                                 <li><a href="#"><i class="icofont-twitter"></i></a></li>
+                                 <li><a href="#"><i class="icofont-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    </div> 
+                </div>
+             </div>
+        </div>
+        <header class="navbar navbar-expand-lg navbar-light p-3 ">
+          <div class="container">
+              <a href="#" class="navbar-brand">
+                 <img src="Assets/images/logo-dark.png" alt="" title="">
+              </a>
+      
+              <button class="navbar-toggler shadow-none" data-bs-toggle="collapse" data-bs-target="#menu">
+                  <span class="navbar-toggler-icon"></span>
+              </button>
+      
+              <nav class="collapse navbar-collapse justify-content-end" id="menu">
+                  <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link text1 active" href="index.html">
+                      Home
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="pages1.html">pages</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="portfolios.html">Portfolios</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="services.html">Services</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                  </li>
+              </ul>
+              
+              </nav>
+          </div>
+      </header>
+    <!--SUSTAINABLE FINANCE-->
+    <section class="slaider1">
+            <div class="row col-12">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                          <div class="col-12">
+                              <div class="w-100 slider-img pad150">
+                                  <div class="col-8">
+                                      <div class="w-100">
+                                        <h4 class="wow animate__animated animate__backInUp">SUSTAINABLE FINANCE</h4>
+                                        <h2 class="wow animate__animated animate__backInUp animate__delay-1s">We transform
+                                            your business</h2>
+                                        <p class="wow animate__animated animate__backInUp animate__delay-2s">Excepteur sint cupidatat non proident, sunt in coulpa qui official mollit anim id est laborum 20 years experience.</p>
+                                        <button class="wow animate__animated animate__backInUp animate__delay-3s">Discover More</button>
+                                      </div>
+                                      </div>
+                                  </div>
+                              </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="col-12">
+                                    <div class="w-100 slider-img2 pad150">
+                                        <div class="col-8">
+                                            <div class="w-100">
+                                              <h4 class="wow animate__animated animate__backInUp">DISCOVER YOUR BUSINESS</h4>
+                                              <h2 class="wow animate__animated animate__backInUp animate__delay-1s">We Promote
+                                                Your Business</h2>
+                                              <p class="wow animate__animated animate__backInUp animate__delay-2s">Excepteur sint cupidatat non proident, sunt in coulpa qui official mollit anim id est laborum 20 years experience.</p>
+                                              <button class="wow animate__animated animate__backInUp animate__delay-3s">Discover More</button>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                  </div>
+                          </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                             </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                             <span class="visually-hidden">Next</span>
+                         </button>
+            </div>
+    </section>
+<!-- Premium Services Section Start -->
+<section class="gray-bg pad100">
+    <div class="container">
+        <div class="row">
+            <div class="align-items-center mb-60 d-flex sec-title2">
+                <div class="first-half  wow animate__animated animate__backInLeft">
+                    <div class="sub-text">What We Offer</div>
+                    <h2 class="title mb-0">The best solutions for your business - <span>what we do.</span></h2>
+                </div>
+                <div class="last-half  wow animate__animated animate__backInRight">
+                      <p class="desc mb-0 pl-20 md-pl-15">30+ years experience in business and finance consulting, IT solutions, and working with 5k+ clients over the world. Creation timelines for the digital consulting business theme 2021.</p>
+                </div>
+            </div>
+            <div class="row pad90">
+              <div class="owl-carousel owl-theme slider3">
+                   <div class="item">
+                      <div class="card">
+                      <div class="blog-thumb bg-tumb m-3 scale ">
+                        <div class="w-100 hidden grayscale">
+                        <img src="Assets/images/1.jpg"/>
+                         </div>
+                      </div>
+
+                      <div class="card-body">
+                        <h5 class="wow animate__animated  animate__shakeY">Business Planning</h5>
+                        <p>We denounce with indignation on and dislike men who are so begui led and demoralized data.</p>
+                      </div>
+                    </div>
+                    </div>
+                    
+                    <div class="item">
+                      <div class="card">
+                      <div class="blog-thumb bg-tumb card1-img1 m-3 scale ">
+                             </div>
+
+                      <div class="card-body">
+                        <h5 class="wow animate__animated  animate__shakeY">Tax Strategy</h5>
+                        <p>We denounce with indignation on and dislike men who are so begui led and demoralized data.</p>
+                      </div>
+                    </div>
+                  </div>
+                    <div class="item">
+                      <div class="card">
+                      <div class="blog-thumb bg-tumb card1-img2 m-3 scale ">
+                             </div>
+
+                      <div class="card-body">
+                        <h5 class="wow animate__animated  animate__shakeY">Financial Advices</h5>
+                        <p>We denounce with indignation on and dislike men who are so begui led and demoralized data.</p>
+                      </div>
+                    </div>
+                    </div>
+                    <div class="item">
+                      <div class="card">
+                      <div class="blog-thumb bg-tumb card1-img3 m-3 scale ">
+                             </div>
+
+                      <div class="card-body">
+                        <h5>Insurance Strategy</h5>
+                        <p>We denounce with indignation on and dislike men who are so begui led and demoralized data.</p>
+                      </div>
+                    </div>
+                    </div><div class="item">
+                      <div class="card">
+                      <div class="blog-thumb bg-tumb card1-img4 m-3 scale ">
+                             </div>
+
+                      <div class="card-body">
+                        <h5 class="wow animate__animated  animate__shakeY">Start Ups</h5>
+                        <p>We denounce with indignation on and dislike men who are so begui led and demoralized data.</p>
+                      </div>
+                    </div>
+                    </div><div class="item">
+                      <div class="card">
+                      <div class="blog-thumb bg-tumb card1-img5 m-3 scale ">
+                             </div>
+
+                      <div class="card-body">
+                        <h5 class="wow animate__animated  animate__shakeY">Investment</h5>
+                        <p>We denounce with indignation on and dislike men who are so begui led and demoralized data.</p>
+                      </div>
+                    </div>
+                    </div><div class="item">
+                      <div class="card">
+                      <div class="blog-thumb bg-tumb card1-img m-3 scale ">
+                             </div>
+
+                      <div class="card-body">
+                        <h5 class="wow animate__animated  animate__shakeY">Business Planning</h5>
+                        <p>We denounce with indignation on and dislike men who are so begui led and demoralized data.</p>
+                      </div>
+                    </div>
+                    </div>
+              </div>
+        </div>
+    </div>
+</section>
+<!---------------------- About Section Start ------------------------->
+<section class="pad100 about">
+    <div class="container">
+      <div class="row y-middle">
+          <div class="col-lg-6 col-12">
+              <div class="sec-title2 mb-30">
+                <div class="sub-text wow animate__animated animate__backInUp ">Who We Are</div>
+                <h2 class="title mb-30 wow animate__animated animate__backInUp animate__delay-0.1s">We craft your business ideas and <span>plans.</span></h2>
+                <p class="desc mb-0 wow animate__animated animate__backInUp animate__delay-1.5s">Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure. We did with righteous indignat ion and dislike men who are so begui led and demoralized data business theme 2021.</p>
+              </div>
+              <div class="rs-skillbar style1">
+                <div class="cl-skill-bar wow animate__animated animate__backInUp animate__delay-3s">
+                   <span class="skillbar-title">Business Consulting</span>
+                   <div class="skillbar" data-percent="92">
+                       <p class="skillbar-bar" style="width: 92%;"></p>
+                       <span class="skill-bar-percent">92%</span> 
+                   </div>
+                   <span class="skillbar-title">Financial Advices</span>
+                   <div class="skillbar" data-percent="90">
+                       <p class="skillbar-bar" style="width: 90%;"></p>
+                       <span class="skill-bar-percent">90%</span> 
+                   </div>
+                </div>
+                <div class="col-lg-12 mt-45 wow animate__animated animate__backInUp animate__delay-4s">
+                    <div class="btn-part">
+                        <button>Discover More</button>
+                    </div>
+                </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-12">
+              <div class="about-img">
+                  <img src="Assets/images/about-2.png"/>
+                  <div class="working-experiance">
+                 </div>
+              </div>
+          </div>
+      </div>
+      <!-- Partner Section Start -->
+      <div class="pad90">
+          <div class="container">
+          <div class="row">
+            <div class="owl-carousel owl-theme slider2">
+              <div class="item">
+                <a href="#">
+                  <img src="Assets/images/1.png" alt="1" title="1"/>
+                  </a>
+                </div>
+            
+              <div class="item">
+                <a href="#">
+                  <img src="Assets/images/2.png" alt="2" title="2"/>
+                </a>
+              </div>
+            
+              <div class="item">
+                <a href="#">
+                  <img src="Assets/images/3.png" alt="3" title="3"/>
+                </a>
+              </div>
+            
+              <div class="item">
+                <a href="#">
+                  <img src="Assets/images/4.png" alt="4" title="4"/>
+                </a>
+              </div>
+            
+              <div class="item">
+                <a href="#">
+                  <img src="Assets/images/5.png" alt="5" title="5"/>
+                </a>
+              </div>
+            
+              <div class="item">
+                <a href="#">
+                  <img src="Assets/images/6.png" alt="6" title="6"/>
+                </a>
+              </div>
+            
+              <div class="item">
+                <a href="#">
+                  <img src="Assets/images/7.png" alt="7" title="7"/>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+          </div>
+      </div>
+    </div>
+</section>
+<!-- Services Section Start -->
+<section class="pad100 gray-bg services">
+    <div class="container">
+            <div class="sec-title2 text-center md-left mb-40">
+               <div class="sub-text">Why Choose Us</div>
+               <h2 class="title">Get our services &amp; drive more <br><span>customers.</span></h2>
+            </div>
+      <div class="row pad90">
+        <div class="col-lg-4 col-12 align-self-center">
+            <div class="w-100">
+
+              <div class="row padb">
+                <div class="w-15">
+                  <img src="Assets/images/1 (1).png" alt="Images" class="img-fluid">
+                </div>
+                <div class="w-85">
+                  <h3>Expert peoples</h3>
+                  <p>Quisque placerat vitae ut scelerise consulting.</p>
+                </div>
+              </div>
+
+              <div class="row padb">
+                <div class="w-15">
+                  <img src="Assets/images/2 (1).png" alt="Images" class="img-fluid">
+                </div>
+                <div class="w-85">
+                  <h3>Big experience</h3>
+                  <p>Quisque placerat vitae ut scelerise consulting.</p>
+                </div>
+              </div>
+              
+              <div class="row padb">
+                <div class="w-15">
+                  <img src="Assets/images/3 (1).png" alt="Images" class="img-fluid">
+                </div>
+                <div class="w-85">
+                  <h3>Financial control</h3>
+                  <p>Quisque placerat vitae ut scelerise consulting.</p>
+                </div>
+              </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4  md-mb-50">
+              <div class="rs-videos choose-video">
+                  <div class="images-video">
+                      <img src="Assets/images/choose-2.png" alt="images">
+                  </div>
+                  <div class="animate-border">
+                      <a class="popup-border" href="https://www.youtube.com/watch?v=FMvA5fyZ338">
+                      </a>
+                  </div>
+              </div>  
+          </div>
+
+          <div class="col-lg-4 pl-40 md-pl-15">
+            <div class="row padb">
+              <div class="w-15">
+                <img src="Assets/images/4 (1).png" alt="Images" class="img-fluid">
+              </div>
+              <div class="w-85">
+                <h3>Committed quality</h3>
+                <p>Quisque placerat vitae ut scelerise consulting.</p>
+              </div>
+            </div>
+            <div class="row padb">
+              <div class="w-15">
+                <img src="Assets/images/5 (1).png" alt="Images" class="img-fluid">
+              </div>
+              <div class="w-85">
+                <h3>Award winning</h3>
+                <p>Quisque placerat vitae ut scelerise consulting.</p>
+              </div>
+            </div>
+            <div class="row padb">
+              <div class="w-15">
+                <img src="Assets/images/6 (1).png" alt="Images" class="img-fluid">
+              </div>
+              <div class="w-85">
+                <h3>Insurance Policy</h3>
+                <p>Quisque placerat vitae ut scelerise consulting.</p>
+              </div>
+            </div>
+        </div>
+     </div>
+            <hr class="mart align-self-center">
+          
+      <div class="row title4 pad20">
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="row padb align-self-center">
+            <div class="d-flex">
+              <div class="fs-70">
+                <img src="Assets/images/1 (2).png" alt="Images" class="img-fluid">
+              </div>
+                <h5>64</h5>
+            </div>
+                <h6 class="line1 pt-2">
+                  Projects completed for our respected clients.
+                </h6>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+              <div class="row padb align-self-center">
+              <div class="d-flex">
+                <div class="fs-70">
+                  <img src="Assets/images/1 (2).png" alt="Images" class="img-fluid">
+                </div>
+                  <h5>25</h5>
+              </div>
+                  <h6 class="line1 pt-2">
+                    Projects completed for our respected clients.
+                  </h6>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="row padb align-self-center">
+                <div class="d-flex">
+                  <div class="fs-70">
+                    <img src="Assets/images/1 (2).png" alt="Images" class="img-fluid">
+                  </div>
+                    <h5>3</h5>
+                </div>
+                    <h6 class="line1 pt-2">
+                      Projects completed for our respected clients.
+                    </h6>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                  <div class="row padb align-self-center">
+                  <div class="d-flex">
+                    <div class="fs-70">
+                      <img src="Assets/images/1 (2).png" alt="Images" class="img-fluid">
+                    </div>
+                      <h5>8</h5>
+                  </div>
+                      <h6 class="line1 pt-2">
+                        Projects completed for our respected clients.
+                      </h6>
+                    </div>
+                  </div>
+          </div>
+      </div>
+        
+
+          </div>
+</section>
+
+ <!-- Process Section Start -->
+ <div class="rs-process style1 bg2 pad100">                
+  <div class="container">
+      <div class="row y-middle">
+          <div class="col-lg-5">
+              <div class="sec-title2 md-text-center">
+                  <div class="sub-text">Working Process</div>
+                  <h2 class="title mb-23 white-color">How we work for our valued  <span>customers.</span></h2>
+              </div>
+          </div>
+          <div class="col-lg-7">
+              <div class="btn-part text-right md-text-center">
+                  <a class="readon consultant discover" href="portfolio.html">View Works</a>
+              </div>
+          </div>
+      </div>
+  </div>
+  <div class="container custom2">
+      <div class="process-effects-layer">
+          <div class="row">
+              <div class="col-lg-3 col-md-6 md-mb-30">
+                  <div class="rs-addon-number">
+                      <div class="number-part">
+                          <div class="number-image">
+                              <img src="Assets/images/process 1.png" alt="Process">
+                          </div>
+                          <div class="number-text">
+                              <div class="number-area"> <span class="number-prefix"> 1 </span></div>
+                              <div class="number-title"><h3 class="title"> Discovery</h3></div>
+                              <div class="number-txt"> 
+                                  Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus, in porttitor.
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-6 md-mb-30">
+                  <div class="rs-addon-number">
+                      <div class="number-part">
+                          <div class="number-image">
+                              <img src="Assets/images/process 2.png" alt="Process">
+                          </div>
+                          <div class="number-text">
+                              <div class="number-area"> <span class="number-prefix"> 2 </span></div>
+                              <div class="number-title"><h3 class="title">Planning</h3></div>
+                              <div class="number-txt"> 
+                                  Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus, in porttitor.
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-6 sm-mb-30">
+                  <div class="rs-addon-number">
+                      <div class="number-part">
+                          <div class="number-image">
+                              <img src="Assets/images/process 3.png" alt="Process">
+                          </div>
+                          <div class="number-text">
+                              <div class="number-area"> <span class="number-prefix"> 3 </span></div>
+                              <div class="number-title"><h3 class="title">Execute</h3></div>
+                              <div class="number-txt"> 
+                                  Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus, in porttitor.
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-3 col-md-6">
+                  <div class="rs-addon-number">
+                      <div class="number-part">
+                          <div class="number-image">
+                              <img src="Assets/images/process 4.png" alt="Process">
+                          </div>
+                          <div class="number-text">
+                              <div class="number-area"> <span class="number-prefix"> 4 </span></div>
+                              <div class="number-title"><h3 class="title">Deliver</h3></div>
+                              <div class="number-txt"> 
+                                  Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus, in porttitor.
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+<!-- Contact Section Start -->
+<div class="rs-contact contact-style2 pad100">
+  <div class="container">
+      <div class="sec-title2 mb-55 md-mb-35 text-center text-lg-start">
+          <div class="sub-text">Contact</div>
+          <h2 class="title mb-0">Let us help your business <br> to move <span>forward.</span></h2>
+      </div>
+      <div class="row y-middle pad70">
+          <div class="col-lg-6 md-mb-50">
+              <div class="contact-img">
+                  <img src="Assets/images/computer.jpg" alt="Contact">
+              </div>
+          </div>
+          <div class="col-lg-6">
+              <div class="contact-wrap">
+                  <div id="form-messages"></div>
+                  <form id="contact-form" method="post" action="mailer.php">
+                      <fieldset>
+                          <div class="row">
+                              <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
+                                  <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
+                              </div> 
+                              <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
+                                  <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
+                              </div>   
+                              <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
+                                  <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
+                              </div>   
+                              <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
+                                  <input class="from-control" type="text" id="Website" name="subject" placeholder="Your Website" required="">
+                              </div>
+                        
+                              <div class="col-lg-12 mb-30">
+                                  <textarea class="from-control" id="message" name="message" placeholder="Your message Here" required=""></textarea>
+                              </div>
+                          </div>
+                          <div class="btn-part">                                            
+                              <div class="form-group mb-0">
+                                  <input class="readon submit" type="submit" value="Submit Now">
+                              </div>
+                          </div> 
+                      </fieldset>
+                  </form> 
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+<!-- Footer Start -->
+<footer id="rs-footer" class="rs-footer style1">
+<div class="footer-top">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-3 col-md-12 col-sm-12 md-mb-10">
+              <div class="footer-logo mb-40">
+                  <a href="index.html"><img src="Assets/images/logo.png" alt=""></a>
+              </div>
+                <div class="textwidget white-color pb-40"><p>We denounce with righteous indig nation in and dislike men who are so beguiled and to demo realized by the, so blinded by desire, that they cannot foresee.</p>
+                </div>
+                <ul class="footer-social md-mb-30">  
+                    <li> 
+                        <a href="#" target="_blank"><span><i class="icofont-facebook"></i></span></a> 
+                    </li>
+                    <li> 
+                        <a href="# " target="_blank"><span><i class="icofont-twitter"></i></span></a> 
+                    </li>
+
+                    <li> 
+                        <a href="# " target="_blank"><span><i class="icofont-pinterest"></i></span></a> 
+                    </li>
+                    <li> 
+                        <a href="# " target="_blank"><span><i class="icofont-instagram"></i></span></a> 
+                    </li>
+                                                             
+                </ul>
+          </div>
+          <div class="col-lg-3 col-md-12 col-sm-12 md-mb-10 pl-55 md-pl-15">
+              <h3 class="footer-title">Our Services</h3>
+              <ul class="site-map">
+                  <li><a href="business-planning.html">Business planning</a></li>
+                  <li><a href="tax-strategy.html">Tax strategy</a></li>
+                  <li><a href="financial-advices.html">Financial advices</a></li>
+                  <li><a href="insurance-strategy.html">Insurance strategy</a></li>
+                  <li><a href="manage-investment.html">Manage investment</a></li>
+              </ul>
+          </div>
+          <div class="col-lg-3 col-md-12 col-sm-12 md-mb-10">
+              <h3 class="footer-title">Contact Info</h3>
+              <ul class="address-widget">
+                  <li>
+                    <i class="icofont-map-pins"></i>
+                      <div class="desc">Ta-134/A, Gulshan Badda<br>
+                       Link Rd, Dhaka</div>
+                  </li>
+                  <li>
+                    <i class="icofont-ui-call"></i>
+                      <div class="desc">
+                         <a href="tel:(+880)15569569365">(+880)155 69569 365</a>
+                      </div>
+                  </li>
+                  <li>
+                    <i class="icofont-email"></i>
+                      <div class="desc">
+                          <a href="mailto:support@rstheme.com">support@rstheme.com</a>
+                      </div>
+                  </li>
+                  <li>
+                    <i class="icofont-clock-time"></i>
+                      <div class="desc">
+                          Office Hours: 8AM - 11PM  
+                      </div>
+                  </li>
+              </ul>
+          </div>
+          <div class="col-lg-3 col-md-12 col-sm-12">
+              <h3 class="footer-title">Newsletter</h3>
+              <p class="widget-desc white-color">Stay up to update with our latest news and products.</p>
+              <p>
+                  <input type="email" name="EMAIL" placeholder="Your email address" required="">
+                  <input type="submit" value="Subscribe Now">
+              </p>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="footer-bottom">
+  <div class="container">                    
+      <div class="row y-middle">
+          <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
+              <ul class="copy-right-menu">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="about.html">About</a></li>
+                  <li><a href="faqs.html">Faqs</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+              </ul>
+          </div>
+          <div class="col-lg-6">
+              <div class="copyright text-lg-start text-center ">
+                  <p>© 2021 Bizup - Consulting Company Inc. All Rights Reserved.</p>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+</footer>
+
+
+<!------- popper js ------->
+<script src="assets/js/popper.js"></script>
+<!------- bootstrap min ------->
+<script src="assets/js/bootstrap.min.js"></script>
+<!------- jaq carousal ------->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<!------------------ WOW min ------------------>
+<script src="Assets/js/wow.min.js"></script>
+<script>
+	new WOW().init();
+</script>
+<script type="text/javascript">
+  $('.slider3').owlCarousel({
+      loop:true,
+      margin:0,
+      nav:true,
+      autoplay:true,
+      autoplayTimeout:3000,
+      responsive:{
+          0:{
+              items:1
+          },
+          600:{
+              items:1
+          },
+          1000:{
+              items:3
+          }
+      }
+  })
+  </script>
+
+<script type="text/javascript">
+  $('.slider2').owlCarousel({
+      loop:true,
+      margin:40,
+      nav:true,
+    autoplay:true,
+      autoplayTimeout:3000,
+      responsive:{
+          0:{
+              items:2
+          },
+          600:{
+              items:3
+          },
+          1000:{
+              items:2
+          }
+      }
+  })
+  </script>
+
+<script type="text/javascript">
+  $('.slider4').owlCarousel({
+      loop:true,
+      margin:10,
+      nav:true,
+    // autoplay:true,
+      // autoplayTimeout:3000,
+      responsive:{
+          0:{
+              items:2
+          },
+          600:{
+              items:3
+          },
+          1000:{
+              items:3
+          }
+      }
+  })
+  </script>
+
+</body>
+</html>

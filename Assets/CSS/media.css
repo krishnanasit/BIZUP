@@ -1,0 +1,165 @@
+@media (max-width: 575px) {
+  
+
+  .slider-img h2, .slider-img2 h2{
+    font-size: 20px;
+}
+
+.carousel-control-prev-icon{
+    left: 54%;
+}
+
+
+
+.sec-title2 .title {
+  font-size: 25px;
+}
+
+.sec-title2 p{
+    font-size: 12px;
+}
+
+.title {
+   line-height: 30px;
+}
+
+
+.carousel-control-next-icon{
+  left: -17% !important;
+}
+
+.pad150{
+  padding: 40px;
+}
+
+.text-right{
+   text-align: center;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: var(--praimary) !important;
+  padding: 10px !important;
+  background-size: 50% 50%;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+
+.navbar{
+  flex-wrap: nowrap;
+}
+
+.slider-img2 p {
+  font-size: 14px;
+  margin: 25px 0 45px;
+}
+
+.slider-img button, .slider-img2 button, .about button{
+  display: block !important;
+  font-size: 14px;
+  padding: 10px 25px;
+}
+
+.slider-img h4, .slider-img2 h4{
+  font-size: 14px;
+}
+
+.topbar-area{
+  display: none;
+}
+
+.title {
+    font-size: 25px; 
+    line-height: 50px;
+    font-weight: 700;
+    color: var(--black);
+}
+
+.page-p{
+  padding-right: 20px;
+}
+
+
+.about-img, .images-video, .contact-img
+{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+}
+
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+
+}
+
+@media (max-width:991px){
+  
+
+}
+
+@media (min-width: 576px) and (max-width: 991px) {
+
+  .slider-img h2, .slider-img2 h2{
+    font-size: 40px;
+}
+
+.text-right{
+  text-align: center;
+}
+
+.navbar{
+  flex-wrap: nowrap;
+}
+
+.pad150 {
+   padding: 30px; 
+}
+
+.sec-title2 .title {
+  font-size: 25px;
+}
+
+.sec-title2 p{
+    font-size: 12px;
+}
+
+.title {
+   line-height: 30px;
+}
+
+
+.slider-img2 p {
+  font-size: 16spx;
+  color: #0a0a0a;
+  max-width: 500px;
+  margin: 25px 0 45px;
+}
+.topbar-area{
+  display: none;
+}
+
+.page-p{
+  padding-right: 20px !important;
+}
+
+
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+ 
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+@media (min-width: 1200px) {
+
+
+
+}
